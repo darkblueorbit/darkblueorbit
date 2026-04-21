@@ -15,6 +15,6 @@ With 7+ years as a Full-Stack Developer, I specialize in clean architecture, fas
 ## 🛠 Tech Stack
 - Frontend: React / Next.js
 - Backend: Node.js / Python
-- flutter & react native
+- Flutter & React Native
 - Automation: n8n
 - Database: MongoDB / MySQL
