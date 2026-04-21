@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 JinHo Y
 
-<!--
-**darkblueorbit/darkblueorbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a full stack developer who handles all aspects of web development, from frontend to backend.
+I focus on building user-friendly interfaces while designing stable and scalable server architectures.
 
-Here are some ideas to get you started:
+## ⚡ About Me
+- Design and develop web applications
+- Build APIs and backend systems
+- Implement data processing and automation solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Currently Interested In
+- AI Automation (n8n, LLM, Ollama)
+- SaaS & E-commerce (Shopify, Next.js)
+
+## 🛠 Tech Stack
+- Frontend: React / Next.js
+- Backend: Node.js / Python
+- Automation: n8n
+- Database: MongoDB / MySQL
