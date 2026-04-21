@@ -1,7 +1,7 @@
 # 👋 JinHo Y
 
-I am a full stack developer who handles all aspects of web development, from frontend to backend.
-I focus on building user-friendly interfaces while designing stable and scalable server architectures.
+I build high-performance cross-platform mobile apps with Flutter and modern web platforms using Next.js, Laravel, and FastAPI - from MVP to scalable production systems.
+With 7+ years as a Full-Stack Developer, I specialize in clean architecture, fast delivery, and creating products that solve real business problems and drive growth.
 
 ## ⚡ About Me
 - Design and develop web applications
@@ -15,5 +15,6 @@ I focus on building user-friendly interfaces while designing stable and scalable
 ## 🛠 Tech Stack
 - Frontend: React / Next.js
 - Backend: Node.js / Python
+- flutter & react native
 - Automation: n8n
 - Database: MongoDB / MySQL
