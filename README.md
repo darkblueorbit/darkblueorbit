@@ -5,6 +5,7 @@ With 7+ years as a Full-Stack Developer, I specialize in clean architecture, fas
 
 ## ⚡ About Me
 - Design and develop web applications
+- Mobile applications
 - Build APIs and backend systems
 - Implement data processing and automation solutions
 
